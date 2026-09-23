@@ -1,0 +1,1 @@
+Hyvä komento: du -sh *  # näyttää hakemiston koon
