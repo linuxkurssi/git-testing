@@ -1,0 +1,5 @@
+#tompan kätevä linkku linuxiin
+
+Jos haluat etsiä aiemmin käyttämiäsi komentoja historiasta: 
+
+history | grep "hakusana"
