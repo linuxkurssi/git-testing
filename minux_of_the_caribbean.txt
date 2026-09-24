@@ -1,0 +1,14 @@
+@ Qwendinen
+
+Arrrr, ye scurvy dog!
+ 
+But if the greatest treasure on the seven seas ye seek,
+This be the command fer every matey and creek:
+ 
+find . -type f -exec du -h {} + | sort -rh | head -10
+ 
+It reveals the biggest treasures in the hold,
+Before yer cargo turns rotten and old!
+ 
+Avast, ye scallywag, take heed o' me,
+A clean vessel sails fastest upon the sea!
