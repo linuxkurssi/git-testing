@@ -1,0 +1,10 @@
+Hyvä komento: du -sh *  # näyttää hakemiston koon
+
+Navigointi ja tiedostot
+pwd: Näyttää nykyisen kansion polun.
+ls:Listaa kansiossa olevat tiedostot ja alikansiot.
+cd [kansio]: Siirtyy annettuun kansioon (esim. cd kansio tai cd .. takaisinpäin).
+mkdir [nimi]: Luo uuden kansion.touch [tiedosto]: Luo uuden tyhjän tiedoston.
+cp [lahde] [kohde]: Kopioi tiedoston tai kansion.
+mv [lahde] [kohde]: Siirtää tai nimeää uudelleen tiedoston.
+rm [tiedosto]: Poistaa tiedoston (käytä varoen)

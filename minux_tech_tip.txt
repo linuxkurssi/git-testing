@@ -1,0 +1,9 @@
+Ahoy, me hearties!
+ 
+If recent commands ye wish to see,
+The proper spell would be:
+ 
+history | tail -20
+ 
+Run it once and ye shall know,
+Where all yer latest commands did flow.
