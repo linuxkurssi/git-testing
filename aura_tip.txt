@@ -1,0 +1,7 @@
+Linux tip:
+ 
+Etsi isoimmat tiedostot:
+ 
+du -ah /home | sort -rh | head -20
+ 
+Niin saat 20 isointa tiedostoa esiin!
