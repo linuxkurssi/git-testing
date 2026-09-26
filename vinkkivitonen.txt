@@ -1,1 +1,58 @@
-You can use cat to view what is inside of a single file.
+Linux-verkkokomentoja:
+
+
+ping
+Testaa verkkoyhteyden toimivuuden
+Esimerkki: ping google.com
+
+ifconfig
+Näyttää verkkoliitännät (vanhempi työkalu)
+Esimerkki: ifconfig eth0
+
+ip
+Työkalu verkkoasetusten tarkasteluun
+Esimerkki: ip addr
+
+netstat
+Näyttää aktiiviset yhteydet ja portit
+Esimerkki: netstat -tulpn
+
+ss
+Näyttää socket‑tilastot
+Esimerkki: ss -lntu
+
+curl
+Lähettää HTTP‑pyyntöjä ja hakee dataa
+Esimerkki: curl https://api.github.com
+
+wget
+Lataa tiedostoja verkosta
+Esimerkki: wget backup.zip
+
+traceroute
+Selvittää reitin, jota paketit kulkevat kohteeseen
+Esimerkki: traceroute google.com
+
+dig
+Tekee DNS‑kyselyjä
+Esimerkki: dig gmail.com
+
+host
+Yksinkertainen DNS‑työkalu
+Esimerkki: host yahoo.com
+
+arp
+Näyttää ARP‑taulun (IP>MAC‑osoitteet)
+Esimerkki: arp -a
+
+nmcli
+Hallitsee NetworkManagerin verkkoyhteyksiä
+Esimerkki: nmcli connection show
+
+ssh
+Kirjautuu etäpalvelimelle
+Esimerkki: ssh ubuntu@server-ip
+
+scp
+Siirtää tiedostoja SSH:n yli
+Esimerkki: scp app.zip user@server:/home
