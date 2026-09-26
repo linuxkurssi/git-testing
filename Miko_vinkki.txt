@@ -1,0 +1,5 @@
+Mikon vinkki:
+
+Tuliko kirjoitettua komentoriville pitkä komento, mikä ei sitten toiminutkaan ilman root-oikeuksia?
+
+Ei hätää! Voit kirjoittaa vain komennon "sudo !!", niin se ajaa edellisen komennon sudo-oikeuksilla.
