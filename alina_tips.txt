@@ -1,0 +1,5 @@
+Do you know that chmod command, where usualy we use words (u+r or g+w) instead we can use 
+numbers? 
+
+For example: chmod 600 ~/user/bla/file (600 --> u(user)g(group)o(other) --> rights: r(read) w(write) x(access) --> 
+numbers: r(4) w(2) x(1)) 600 is u(4+2) g(0) o(0) = 600
