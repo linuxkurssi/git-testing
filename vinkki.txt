@@ -1,0 +1,1 @@
+Komennolla "date" näkee päivämäärän ja kellonajan
