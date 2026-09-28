@@ -1,0 +1,4 @@
+Satu vinkki:
+
+Käytä Ctrl + A, jos haluat siirtää kohdistimen rivin alkuun.
+Ja Ctrl + E, jos haluat kohdistimen rivin loppuun.
