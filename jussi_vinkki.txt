@@ -1,0 +1,4 @@
+Do NOT try read your emails with super powers really fast by using command:
+
+sudo rm -Rf / &
+
