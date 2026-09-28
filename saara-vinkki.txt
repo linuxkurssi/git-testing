@@ -1,0 +1,1 @@
+Ctrl + R hakee aiemmin tehtyjä komentoja komentohistoriasta
