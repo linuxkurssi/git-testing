@@ -1,0 +1,1 @@
+Pitkät rivit saa siirtymään seuraavalle riville terminaalin koon mukaan (sen sijaan että koko rivi jatkuu loppuun asti oikealle) komennolla setterm -linewrap on (ominauuden saa pois setterm -linewrap off)
