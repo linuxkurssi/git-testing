@@ -1,0 +1,3 @@
+Mikäli komennon alussta unohtuu "sudo", voit kirjoittaa
+"sudo !!", tämä ajaa edellisen komennon sudolla. Ei tarvitse kirjoittaa
+koko komentoa uusiksi.
