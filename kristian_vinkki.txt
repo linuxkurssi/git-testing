@@ -1,0 +1,1 @@
+Komennolla "cd -" voi palata nopeasti edelliseen hakemistoon.
