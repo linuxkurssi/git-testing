@@ -1,0 +1,1 @@
+Tip: use 'history | grep command' to find a command you ran earlier
