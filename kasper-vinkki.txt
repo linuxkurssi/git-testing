@@ -1,0 +1,1 @@
+Kirjoittamalla !! voit toistaa ja runnata aiemmin tekemäsi commandin. Kiitos kun vaivauduit lukemaan tämän hienon vinkkini.
