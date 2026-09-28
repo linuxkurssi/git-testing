@@ -1,0 +1,2 @@
+Muista tarkistaa komentojen oikeinkirjoitus,
+jos jostain syystä komento ei näytä toimivan.
