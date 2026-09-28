@@ -1,0 +1,4 @@
+Vinkki: Jos SSH-yhteys GitHubiin ei toimi
+-> aja ssh -vT git@github.com
+ Verbose-tuloste näyttää tarkalleen, mitä avaimia SSH kokeilee ja missä kohtaa yhteys kaatuu :)
+
